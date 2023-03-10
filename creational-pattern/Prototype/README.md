@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/8929789/224360879-7774ace0-2073-4fbf-be16-4b351a8e4f8d.png)
+
 Prototype Pattern says that _**cloning of an existing object instead of creating new one and can also be customized as per the requirement**_
 
 This pattern should be followed, if the cost of creating a new object is expensive and resource intensive.
