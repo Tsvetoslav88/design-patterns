@@ -9,4 +9,5 @@ There are following 6 types of creational design patterns:
 3. [Abstract-Factory](https://github.com/Tsvetoslav88/design-patterns/tree/9ac7f8d07c3052e0b40c9ea4890e88c26e417f39/creational-pattern/abstract-factory)
 4. [Builder](https://github.com/Tsvetoslav88/design-patterns/tree/9ac7f8d07c3052e0b40c9ea4890e88c26e417f39/creational-pattern/builder)
 5. [Singleton](https://github.com/Tsvetoslav88/design-patterns/tree/9ac7f8d07c3052e0b40c9ea4890e88c26e417f39/creational-pattern/singleton)
+6. [Strategy](https://github.com/Tsvetoslav88/design-patterns/tree/d5f77d76993b2436d64424f3b048bcd3da8c2b2b/creational-pattern/strategy)
 
